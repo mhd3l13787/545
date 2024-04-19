@@ -1,0 +1,8 @@
+press three key CTRL+a+d together to the script run on Background.  
+ 
+dont need to do anything. when your node Stopped  It will auto restart your node till successfull 
+ 
+run: 
+curl -I "localhost:7000/health" 
+ 
+200 OK is expected response. . it mean your node is running
